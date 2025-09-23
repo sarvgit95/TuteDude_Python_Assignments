@@ -1,2 +1,2 @@
 # TuteDude_Python_Assignments
-All the assignments from the Python course
+All the assignments from the Python courses
